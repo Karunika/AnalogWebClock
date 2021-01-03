@@ -1,2 +1,2 @@
 Some crap code<br>
-I hate css
+Caution: The color is Awful
